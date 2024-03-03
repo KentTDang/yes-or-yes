@@ -1,11 +1,17 @@
+# Valentine's Web App
 
-Yes, or yes?
-Description
-Welcome to my  first project! This is a purposal application made in JavaScript, HTML, and CSS. It allows users to ask their significant other out in a special way for valentines.
+A simple web application created using HTML, CSS, and JavaScript to ask your significant other out for Valentine's Day in a unique way!
 
-Contributing
-We welcome any and all contributions! Here are some ways you can get started:
+![Valentine's Web App Screenshot](vday-project.png)
+)
 
-Instructions
-Fork this repository
-Clone the forked repository
+## Features
+
+- Customizable message: Write your own romantic message to ask your partner out.
+- Interactive design: The application provides a delightful user experience with smooth animations and responsive layout.
+- Easy to deploy: Simply clone the repository and open `index.html` in your web browser to use the application.
+
+## Usage
+
+1. Clone the repository to your local machine:
+
