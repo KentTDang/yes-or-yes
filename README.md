@@ -1,5 +1,11 @@
+
 Yes, or yes?
+Description
+Welcome to my  first project! This is a purposal application made in JavaScript, HTML, and CSS. It allows users to ask their significant other out in a special way for valentines.
 
-Overview
+Contributing
+We welcome any and all contributions! Here are some ways you can get started:
 
-This is my very first personal project incoproating javascript, html, and css. The purpose of this web application was a fun and creative way for me to ask my significant other out for valentines
+Instructions
+Fork this repository
+Clone the forked repository
